@@ -59,7 +59,7 @@ title: "HPC Carpentry Workshop"
 # in The Carpentries Incubator).
 #
 # For an Incubator workshop, uncomment the line below and add the URL of the lesson site.
- incubator_lesson_site: http://rits.github-pages.ucl.ac.uk/hpc-intro/reference/
+# incubator_lesson_site: http://rits.github-pages.ucl.ac.uk/hpc-intro/reference/
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your pre-workshop survey
 # incubator_pre_survey: "put the URL of your pre-workshop survey here"
